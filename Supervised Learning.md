@@ -1,4 +1,4 @@
-# Overview
+<img width="532" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/3007e67b-068d-41a3-886b-921e1b6c3ff0"><img width="532" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/5718438d-916d-406d-9e22-e86254f79b11"># Overview
 ## Supervised Learning 
 
 X -> Y
@@ -71,7 +71,30 @@ b: bias
 
 所有的AI模型都会用到 
 
+<img width="645" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/580675ff-5fbc-4fcc-bd4d-a85b0106346b">
+
+“Local mimima”
+
+<img width="532" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/14fd161d-8e65-415f-b208-d3072015ce4b">   
+
+<img width="771" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/f6b3f8d6-bf38-4684-b8f2-b94b435753f8">
+
+<img width="698" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/4806eaa7-4944-477b-9fcd-f79c005fd025">
+
+## Learning Rate
+ 
+<img width="763" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/48e0f22e-3406-4d92-9b1a-913fdf0634a5">
+
+<img width="783" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/e9323997-b1f5-40f6-aca3-e0312875babb">
+
+## Gradient Descent for linear Regression
+
+<img width="711" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/f50f7d1a-1ebe-42a2-b8d2-eb81f7424ce6">
+
+<img width="769" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/87735357-08e5-4457-accb-ac914d368649">
+
+<img width="764" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/e06ffed4-bb2d-4589-8cfb-0f50b8b7a3bf">
+
+<img width="768" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/b1a87c71-d77a-41d1-8cc4-73a6e6751b54">
 
 
-
-      
