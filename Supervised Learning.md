@@ -104,3 +104,26 @@ b: bias
 <img width="742" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/f2a92e3a-ff86-43d4-9f1d-114d40ecb87c">
 
 ## Vectorization 
+
+<img width="638" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/38ad560d-0204-497a-ac45-ee4bfe9c0187">
+
+<img width="636" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/70cc0811-fb91-459a-aa8c-afdfed9ab90f">
+
+<img width="642" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/cfae2323-48a1-40a4-9057-f89b1f5151ff">
+
+<img width="632" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/ead375f7-9120-4bbf-8d84-8c86061ecc74">
+
+<img width="630" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/77990672-3255-454d-ac53-5f5eb9b42d5e">
+
+<img width="595" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/44a4a61a-7b02-46f9-b5e5-2ae69b090124">
+
+### 关于梯度下降算法我还是不太懂，看其他视频
+最小二乘法  
+<img width="413" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/5e3d0f0a-901c-4e91-9b19-f0f6e63a6ee5">
+
+最小二乘法是解决线性回归问题的常用方法 
+
+<img width="583" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/1ef59d7c-29e7-4965-b6ec-6889b0a14e80">
+
+   
+
