@@ -125,5 +125,10 @@ b: bias
 
 <img width="583" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/1ef59d7c-29e7-4965-b6ec-6889b0a14e80">
 
-   
+要确定这个W 所以引出线性回归的代价函数
+代价函数值越大，越说明 W 与 B  不合适
+因此要求出 当代价函数最小时， W 和 B 的值
+
+<img width="522" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/372bd437-6c7a-4f79-ad18-a2cb08c890e7">
+
 
