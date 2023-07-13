@@ -97,4 +97,10 @@ b: bias
 
 <img width="768" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/b1a87c71-d77a-41d1-8cc4-73a6e6751b54">
 
+<img width="766" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/46259322-5b0f-4926-84b9-eb6f4d9a1b6e">
 
+<img width="748" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/efa98e8a-451c-4cac-98da-05651f6653d0">
+
+<img width="742" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/f2a92e3a-ff86-43d4-9f1d-114d40ecb87c">
+
+## Vectorization 
