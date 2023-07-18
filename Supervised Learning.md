@@ -149,4 +149,5 @@ Z-score normalization
 
 ##  判断梯度下降是否收敛
  
+<img width="1256" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/96d5b1f7-6d2a-48e4-a5cc-8432598eedba">
 
