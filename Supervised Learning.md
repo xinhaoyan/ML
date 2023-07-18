@@ -131,4 +131,22 @@ b: bias
 
 <img width="522" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/372bd437-6c7a-4f79-ad18-a2cb08c890e7">
 
+## Feature Scaling 特征缩放
+ <img width="1056" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/aa0f7d66-48bc-4a85-abbb-477a7c01841c">
+
+最大法 
+<img width="1008" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/f2b3708c-8b02-40a1-8378-f3380c30a513">
+
+Mean Normalization --平均值标准化 
+<img width="1018" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/89b1f604-b802-474c-b7c6-8697e82e89fa">
+
+Z-score normalization
+<img width="1020" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/2b279a37-08dd-45df-8122-9e3724a0da9c">
+
+
+<img width="1139" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/4c20004d-6def-49d4-b299-6b25d679e961">
+
+
+##  判断梯度下降是否收敛
+ 
 
