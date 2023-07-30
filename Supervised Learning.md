@@ -151,3 +151,7 @@ Z-score normalization
  
 <img width="1256" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/96d5b1f7-6d2a-48e4-a5cc-8432598eedba">
 
+## 过拟合 
+<img width="482" alt="image" src="https://github.com/xinhaoyan/ML/assets/111496997/2081ebb6-ad31-4d01-b93f-be146b3cb386">
+
+
